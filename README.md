@@ -15,5 +15,10 @@
 **intall dependencies**
 - "pip install -r requirements.txt"
 
+**example**
+- $ python3 countries.py "Canada"
+  -> Currency: CAD
 
+- $ python3 zip.py "1600 Amphitheatre Parkway, Mountain View, CA"
+    -> Postal Code: 94043
 
