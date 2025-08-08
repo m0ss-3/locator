@@ -13,7 +13,7 @@
 - clone the repository -> "git clone https://github.com/m0ss-3/locator.py.git cd locator.py
 
 **install dependencies**
-- "pip install -r requirements.txt"
+- "pip3 install -r requirements.txt"
 
 **example**
 - $ python3 countries.py "Canada"
