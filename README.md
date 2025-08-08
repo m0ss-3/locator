@@ -1,4 +1,4 @@
-# locator
+# locator.py
 
 **country currency and postal code lookup**
 - a simple python tool for looking up a country's currency and finding the postal (zip) codes from full addresses.
