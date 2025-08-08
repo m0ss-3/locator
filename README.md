@@ -10,7 +10,7 @@
 - postal code finder -> retrieve postal (zip) codes from full address input, acting as an inverse zip code finder
 
 **installation**
-- clone the repository -> "git clone http://github.com/m0ss-3/locator.git cd locator
+- clone the repository -> "git clone https://github.com/m0ss-3/locator.git cd locator
 
 **intall dependencies**
 - "pip install -r requirements.txt"
