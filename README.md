@@ -12,7 +12,7 @@
 **installation**
 - clone the repository -> "git clone https://github.com/m0ss-3/locator.py.git cd locator.py
 
-**intall dependencies**
+**install dependencies**
 - "pip install -r requirements.txt"
 
 **example**
